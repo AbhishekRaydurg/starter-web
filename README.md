@@ -6,7 +6,9 @@ Some text data
 
 Some data again
 ## Purpose
+some text again
 
 ## How to contribute
+Blah blah
 
 ## Deployment
