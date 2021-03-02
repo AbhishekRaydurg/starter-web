@@ -12,3 +12,4 @@ some text again
 Blah blah
 
 ## Deployment
+Copyright notice
