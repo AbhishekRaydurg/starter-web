@@ -17,3 +17,4 @@ updating the readme file
 Rebase edit from Master
 Rebase edit from myfeature branch
 Stash changes from master after stash
+Stash example 2
